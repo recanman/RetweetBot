@@ -1,0 +1,10 @@
+{
+  "name": "RetweetBot",
+  "version": "1.0.0",
+  "description": "A retweet bot that retweets recent tweets from a list of accounts.",
+  "main": "main.js",
+  "author": "recanman",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
