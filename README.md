@@ -7,7 +7,7 @@ RetweetBot is a simple one-script program that will retweet recent tweets from a
 First, clone the repo (or download it)
 Then, use [npm](https://www.npmjs.com/) to install the dependencies.
 ```bash
-cd RetweetBot/
+cd RetweetBot/src
 npm i
 ```
 
